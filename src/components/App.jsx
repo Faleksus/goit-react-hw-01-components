@@ -35,10 +35,6 @@ export const App = () => {
         stats={data}
       />
 
-      {/* <Statistics
-        stats={data}
-      /> */}
-
       <FriendList
         friends={friends}
       />
